@@ -1,0 +1,5 @@
+Ana 8 9 7
+Carlos 5 6 4
+Lucia 10 9 10
+Pedro 6 7 5
+Juan  7 7 7
